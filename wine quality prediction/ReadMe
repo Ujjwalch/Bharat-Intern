@@ -1,0 +1,10 @@
+#Wine-Quality-Prediction
+___________________________________________________________________________________________________________
+We have a large datasets having the physiochemical tests results and quality on the scale of 1 to 10
+
+# Technologies Used
+___________________________________________________________________________________________________________
+* Numpy
+* Pandas
+* Tkinter
+* Matplotlib
